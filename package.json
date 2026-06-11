@@ -1,0 +1,9 @@
+{
+  "name": "node-reverse-proxy",
+  "version": "1.0.0",
+  "description": "Simple Reverse Proxy on Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
